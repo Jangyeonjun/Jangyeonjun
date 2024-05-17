@@ -18,8 +18,7 @@
 
 <h1>Information</h1>
 
-![gogi102's GitHub stats](https://github-readme-stats.vercel.app/api?username=gogi102&show_icons=true&theme=dark)<br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jangyeonjun&layout=compact)]
+
   
 </div>
 <body>
